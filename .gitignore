@@ -101,3 +101,10 @@ ENV/
 .mypy_cache/
 
 *~
+
+# configuration file
+*config.json
+
+# jupyter notebooks
+# this will be un-commented at some point
+# *.ipynb

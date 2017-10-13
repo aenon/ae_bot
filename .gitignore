@@ -108,3 +108,7 @@ ENV/
 # jupyter notebooks
 # this will be un-commented at some point
 # *.ipynb
+
+*.pyc
+
+cache/
